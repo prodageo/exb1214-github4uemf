@@ -26,4 +26,5 @@ jobs:
     - name: Run a one-line script
       run: |
         javac -cp "." Palindrome.java Principal.java
-        java -cp "." Principal
+        java -cp "." Principal hello
+        java -cp "." Principal laval        
