@@ -19,7 +19,7 @@ public class Principal
 		
 			System.out.println("----------------------------------------------------");
 			// System.out.println("Input : ", "- Output : " );
-			System.out.println("Input : " + motAverifier + " - Output : " + isPalindrome );		
+			System.out.println("Input : " + motAverifier + " >>> Output : " + isPalindrome );		
 			System.out.println("----------------------------------------------------");		
 		}
 		else
