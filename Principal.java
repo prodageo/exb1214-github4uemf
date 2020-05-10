@@ -9,6 +9,8 @@ public class Principal
 		// - argument 2 : paramètre 1 du programme Main.class
 		// rappel : la commande java chargé en RAM le bytecode de la classe qui va utilisé la CPU pour s'éxécuter.
 		
+		// exemple de palindrome en Marocain : TAKHKAT , TAHRAT, ...
+		
 		if ( args.length == 1 )
 		{
 			String motAverifier = args[0] ; // args[0] correspond à l'argument 2 de la commande java
